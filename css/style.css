@@ -1,0 +1,71 @@
+body, html{
+    height: 100%;
+}
+
+.Mainbox{
+    background-image: url("https://wallpaperplay.com/walls/full/b/6/0/161869.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+
+.box{
+    background-color: dimgray;
+    width: 800px;
+    height: 600px;
+    opacity: 0.75;
+}
+
+.top{
+    width: 800px;
+    background-color: crimson;
+    opacity: 0.75;
+    height: 90px;
+    float: top;
+}
+
+.top>ul>font{
+    font-size: 40px;
+    vertical-align: middle;
+}
+
+.right{
+    width: 250px;
+    height: 510px;
+    background-color: white;
+    opacity: 0.75;
+    float: left;
+}
+
+.middle{
+    width: 300px;
+    height: 510px;
+    background-color: dimgray;
+    opacity: 0.75;
+    float: left;
+}
+
+.left{
+    width: 250px;
+    height: 510px;
+    background-color: white;
+    opacity: 0.75;
+    float: left;
+}
+
+.right>text>ul>center{
+    text-align: center;
+    font-size: 25px;
+}
+
+.middle>text>ul>center{
+    text-align: center;
+    font-size: 25px;
+}
+
+.left>text>ul>center{
+    text-align: center;
+    font-size: 25px;
+}
