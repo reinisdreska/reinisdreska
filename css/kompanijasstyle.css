@@ -1,0 +1,27 @@
+.Mainbox{
+    width: 800px;
+    height: 500px;
+    background-color: dimgray;
+}
+
+.left{
+    width: 400px;
+    height: 500px;
+    background-color: #999999;
+    float: left;
+}
+
+.right{
+    width: 400px;
+    height: 500px;
+    background-color: #cccccc;
+    float: left;
+}
+
+.left>text>big{
+    font-size: 50px;
+}
+
+.right>text>big{
+    font-size: 50px;
+}
